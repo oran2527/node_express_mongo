@@ -3,3 +3,5 @@
 ## Orlando Gomez Lopez
 
 # used commands
+
+## npm init
