@@ -1,0 +1,19 @@
+{
+  "name": "node_express_mongo",
+  "version": "1.0.0",
+  "description": "api rest",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oran2527/node_express_mongo.git"
+  },
+  "author": "Orlando Gomez Lopez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oran2527/node_express_mongo/issues"
+  },
+  "homepage": "https://github.com/oran2527/node_express_mongo#readme"
+}
