@@ -4,4 +4,11 @@
 
 # used commands
 
-## npm init
+# npm init
+
+## initialize the app
+
+# npm install --save express
+
+## install express for production
+
